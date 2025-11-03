@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/github/languages/top/PedroLimaDev/multi-architecture-app?style=for-the-badge" alt="main language">
   <img src="https://img.shields.io/github/license/PedroLimaDev/multi-architecture-app?style=for-the-badge&color=brightgreen" alt="license">
   <img src="https://img.shields.io/badge/build-passing-success?style=for-the-badge&color=brightgreen" alt="build passing">
-  <img src="https://img.shields.io/badge/tests-status-100%25-success?style=for-the-badge&color=blue" alt="tests status">
 </p>
 
 ---
