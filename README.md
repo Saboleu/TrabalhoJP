@@ -20,8 +20,3 @@ Consulte os README individuais para detalhes completos. Resumo:
 | Java Spring Boot | `java-springboot` | `mvn dependency:go-offline` (opcional) | `mvn spring-boot:run`               | `mvn test`   |
 | Python FastAPI   | `python-fastapi` | `pip install -r requirements.txt` | `uvicorn app.main:app --reload`     | `pytest`     |
 | Node.js Express  | `node-express`   | `npm install`                     | `npm start`                         | `npm test`   |
-
-## Próximos passos
-- Customizar os repositórios para buscar dados de fontes reais (bancos, APIs, etc.).
-- Adicionar integração contínua para validar todas as stacks em conjunto.
-- Extender os domínios com novos casos de uso aproveitando a arquitetura modular existente.
